@@ -2,7 +2,7 @@
 
 🥱 Hi! I am Cyra ! More about me [here](https://cyra.locs.in/about)
 
-🎮 Pokèmon Go, Clash Royale, Overwatch 🔫
+🎮 Overwatch 2 🔫, Pokèmon: Platinum, Pokèmon Go
 
 🛠 90’ GT-R Celica build, [photography](http://instagram.com/xcyo/)
 
