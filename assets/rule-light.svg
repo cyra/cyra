@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="800" height="6" viewBox="0 0 800 6" shape-rendering="crispEdges">
+  <defs>
+    <pattern id="a" width="4" height="6" patternUnits="userSpaceOnUse"><rect width="2" height="2" fill="#3a4a44" opacity=".8"/></pattern>
+    <pattern id="b" width="8" height="6" patternUnits="userSpaceOnUse"><rect y="4" width="2" height="2" fill="#3a4a44" opacity=".35"/></pattern>
+  </defs>
+  <rect width="800" height="6" fill="url(#a)"/>
+  <rect width="800" height="6" fill="url(#b)"/>
+</svg>
